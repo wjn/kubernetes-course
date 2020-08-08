@@ -90,7 +90,8 @@ then run:
 
 <open a browser and go to that url>
 
-Kops
+### Kops
+
 Project URL
 https://github.com/kubernetes/kops
 
